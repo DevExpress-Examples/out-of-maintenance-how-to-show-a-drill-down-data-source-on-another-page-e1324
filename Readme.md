@@ -2,9 +2,9 @@
 *Files to look at*:
 
 * [default.aspx](./CS/Q148434/default.aspx)
-* [Default.aspx.cs](./CS/Q148434/Default.aspx.cs) (VB: [Default.aspx](./VB/Q148434/Default.aspx))
+* [Default.aspx.cs](./CS/Q148434/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Q148434/Default.aspx.vb))
 * [DetailPage.aspx](./CS/Q148434/DetailPage.aspx) (VB: [DetailPage.aspx](./VB/Q148434/DetailPage.aspx))
-* [DetailPage.aspx.cs](./CS/Q148434/DetailPage.aspx.cs) (VB: [DetailPage.aspx](./VB/Q148434/DetailPage.aspx))
+* [DetailPage.aspx.cs](./CS/Q148434/DetailPage.aspx.cs) (VB: [DetailPage.aspx.vb](./VB/Q148434/DetailPage.aspx.vb))
 <!-- default file list end -->
 # How to show a Drill-Down Data Source on another page
 
